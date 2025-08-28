@@ -1,0 +1,497 @@
+[
+  {
+    "question": "What is a challenge associated with assessing service quality?",
+    "choices": [
+      "Outcome defects are not easy to measure.",
+      "Prevention costs are dependent on customers.",
+      "Appraisal costs cannot be determined directly.",
+      "Productivity is reduced when service is evaluated."
+    ],
+    "correct": "Outcome defects are not easy to measure.",
+    "explanation": "A major challenge in assessing service quality is that service outcomes are difficult to measure reliably, since they depend on intangible, variable, and subjective customer perceptions."
+  },
+  {
+    "question": "Which Six Sigma step requires a firm to create goals, measures, and action plans for projects to identify improvements that will make a significant impact on profitability and achieve strategic objectives?",
+    "choices": [
+      "Align",
+      "Mobilize",
+      "Govern",
+      "Accelerate"
+    ],
+    "correct": "Align",
+    "explanation": "The Align step ensures that Six Sigma projects are not random improvement activities, but rather strategically chosen efforts that deliver measurable results tied to profitability and organizational objectives."
+  },
+  {
+    "question": "Why would a quality manager use a flowchart in the production process?",
+    "choices": [
+      "To display a quantitative visualization of products with poor quality",
+      "To determine a problem that needs to be corrected",
+      "To record data about quality problems",
+      "To identify the relationships between functions"
+    ],
+    "correct": "To identify the relationships between functions",
+    "explanation": "A flowchart is mainly used to document and clarify process flow and relationships between functions, so teams can see how work moves through the system."
+  },
+  {
+    "question": "Which role do employees play as stakeholders in total quality management operations?",
+    "choices": [
+      "They provide materials for the production process.",
+      "They provide capital for the organization.",
+      "They aim to create customer satisfaction.",
+      "They facilitate business to consumer distribution."
+    ],
+    "correct": "They aim to create customer satisfaction.",
+    "explanation": "Employees in TQM are not passive participants; they are active stakeholders who drive quality improvements and focus on creating customer satisfaction."
+  },
+  {
+    "question": "Which cost is associated with a firm’s investment to achieve superior performance through ongoing process improvements?",
+    "choices": [
+      "Quality assurance cost",
+      "Nonconformance cost",
+      "Prevention cost",
+      "Appraisal cost"
+    ],
+    "correct": "Quality assurance cost",
+    "explanation": "Quality assurance costs represent a firm’s investment in continuous process improvement and system-wide practices that enable superior, sustainable performance."
+  },
+  {
+    "question": "Which approach does a firm use when it buys raw materials from suppliers in various locations, manufactures consumer products in Asia, and then ships the finished products to its distribution centers in the United States?",
+    "choices": [
+      "Global supply chain",
+      "Benchmarking analysis",
+      "Vertical integration",
+      "Total quality management"
+    ],
+    "correct": "Global supply chain",
+    "explanation": "Global supply chain involves coordinating the flow of materials, production, and distribution across multiple countries and regions. The objective is to optimize cost, efficiency, and responsiveness while managing complexity across borders."
+  },
+  {
+    "question": "A company develops a product that is highly tailored to meet certain customer needs. How has the quality of design for the selected product been applied?",
+    "choices": [
+      "The product has specific characteristics designed into it.",
+      "The product is the first of its kind in the market.",
+      "The market considers the product an innovative technology.",
+      "The market already has a similar product available."
+    ],
+    "correct": "The product has specific characteristics designed into it.",
+    "explanation": "Quality of design means translating customer needs into product characteristics so the product is fit for its intended use."
+  },
+  {
+    "question": "An investment bank wants to launch a new financial service for a specific income group using the standard service design process. What is the expected deliverable of the service specification stage?",
+    "choices": [
+      "Defining the mode of delivery of the financial service",
+      "Defining the benefits of the financial service",
+      "Defining the design requirements of the financial service",
+      "Defining the target customers for the financial service"
+    ],
+    "correct": "Defining the design requirements of the financial service",
+    "explanation": "The standard service design process typically follows four stages:\n1. Service Concept – Defines the target customers and the benefits they should receive (what the service should do, at a high level).\n2. Service Package – Breaks the concept into detailed components (supporting facilities, goods, and services).\n3. Service Specification – Translates the concept into design requirements (how the service should work in practice, including standards, procedures, and resources).\n4. Process Design – Defines the mode of delivery (the actual service flow, sequence of activities, and customer interaction points).\nSo in this case, when the bank is 3. Service Specification stage, the deliverable is design requirements — a detailed blueprint of what must be built into the service to meet the concept’s goals."
+  },
+  {
+    "question": "To improve quality standards, a manufacturing unit uses a statistical process control chart with one standard deviation control limit to track the vibration levels of a factory machine. What is a characteristic of this control chart?",
+    "choices": [
+      "It will be sensitive to small changes in machine vibration.",
+      "It will have a higher ratio of samples within the control limit due to machine vibration.",
+      "It will be difficult to detect changes in machine vibration.",
+      "It will have a smaller ratio of samples outside the control limit due to machine vibration."
+    ],
+    "correct": "It will be sensitive to small changes in machine vibration.",
+    "explanation": "A statistical process control (SPC) chart monitors variation in a process relative to control limits.\n-Normally, 3 standard deviations (±3σ) are used for control limits. This captures ~99.7% of process variation (per the empirical rule), making it good for detecting significant shifts without too many false alarms.\n-If a company uses tighter control limits (±1σ), the chart becomes much more sensitive to small shifts in the process.\nKey Takeaway: Using ±1σ control limits makes an SPC chart highly sensitive to small changes, but with the tradeoff of excessive false alarms."
+  },
+  {
+    "question": "A supplier for an automobile company uses quality-at-source principles and methods across its value chain. How will this impact the company?",
+    "choices": [
+      "Just-in-time deliveries can be planned.",
+      "Higher costs of quality will be required.",
+      "Higher carrying costs will be required.",
+      "Frequent shutdowns can be planned."
+    ],
+    "correct": "Just-in-time deliveries can be planned.",
+    "explanation": "With quality-at-source, suppliers deliver defect-free inputs, making it possible for manufacturers to plan JIT deliveries confidently and minimize waste in the supply chain."
+  },
+  {
+    "question": "An information technology firm wants to launch a new service using the standard service design process. The firm has defined the performance benefits and performance requirements of the new service. What should the firm focus on?",
+    "choices": [
+      "Service delivery",
+      "Service concept",
+      "Service package",
+      "Service specification"
+    ],
+    "correct": "Service delivery",
+    "explanation": "After defining performance benefits and requirements (service specification), the firm should focus on service delivery — putting the service into action with processes, roles, and workflows."
+  },
+  {
+    "question": "A logistics service provider wants to plot and track its on-time shipments to improve customer service using a statistical control chart. The average on-time performance is 99.9 percent, and the chart should cover 68 percent of occurrence probability within the control limits. Which standard deviation should be used in the chart?",
+    "choices": [
+      "0.5",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": "1",
+    "explanation": "Statistical process control (SPC) charts use standard deviation (σ) to set control limits:\n±1σ from the mean → covers about 68% of data points (per the Empirical Rule).\n±2σ from the mean → covers about 95%.\n±3σ from the mean → covers about 99.7%.\nIn this case:\nThe logistics provider wants the control chart to capture 68% of occurrence probability.\nThat corresponds to ±1σ (one standard deviation)."
+  },
+  {
+    "question": "An insurance company wants to launch a new service for its customers using service quality standards. This service will be managed by its field sales force. Which service characteristic should be considered in the design process?",
+    "choices": [
+      "It will be tangible in nature.",
+      "It will have low customer contact.",
+      "It cannot be easily emulated.",
+      "It must enable decentralized decisions."
+    ],
+    "correct": "It must enable decentralized decisions.",
+    "explanation": "When a field sales force manages service delivery, the design must support decentralized decisions to empower employees closest to the customer."
+  },
+  {
+    "question": "A manufacturing conglomerate wants to enter the service business with a service that will allow it to deploy its expertise with high-quality control measures. Which type of service business should the company enter?",
+    "choices": [
+      "Less labor-intensive",
+      "Highly customized",
+      "Fully homogenized",
+      "Less customized"
+    ],
+    "correct": "Highly customized",
+    "explanation": "When a manufacturing conglomerate enters the service sector, its strength lies in expertise, process discipline, and high-quality control measures. These capabilities are best leveraged in a highly customized service business, where:\n-Customers demand tailored solutions (not one-size-fits-all).\n-The service requires specialized knowledge and technical expertise.\n-Quality control systems ensure consistency, even when solutions vary by client."
+  },
+  {
+    "question": "A manufacturing plant has implemented robust quality controls at the beginning of its production process by installing equipment that inspects raw materials to ensure defects are not passed on to the next stage of production. Which quality principle is being used?",
+    "choices": [
+      "Quality function deployment",
+      "House of quality",
+      "Quality at the source",
+      "Quality index"
+    ],
+    "correct": "Quality at the source",
+    "explanation": "Quality at the source means that quality is built into the process by ensuring defects are prevented or detected as early as possible, ideally at the point of origin, so they don’t flow downstream."
+  },
+  {
+    "question": "A kitchenware brand implemented statistical process control mechanisms in its manufacturing facilities to improve quality. What is a benefit that can be expected from the implementation?",
+    "choices": [
+      "Ability to increase manufacturing productivity and resource utilization",
+      "Ability to reduce warehousing and distribution costs",
+      "Ability to increase supplier responsiveness to demand changes",
+      "Ability to reduce loss by tracing products by manufacturing location and lot"
+    ],
+    "correct": "Ability to increase manufacturing productivity and resource utilization",
+    "explanation": "Statistical Process Control (SPC) is a method of using statistical tools (like control charts) to monitor and control a process. The goal is to keep the process stable, consistent, and within control limits by detecting variation early."
+  },
+  {
+    "question": "An automobile assembly line is using a statistical process control chart to monitor fuel tank failures so that quality standard improvements can be made. The number of failures from collected samples is plotted in the chart. Which scenario confirms that the process is in control?",
+    "choices": [
+      "No sample points are outside the control limits.",
+      "Many sample points are close to the control limits.",
+      "No sample points are occurring above the process average.",
+      "Many sample points are trending toward the control limits."
+    ],
+    "correct": "No sample points are outside the control limits.",
+    "explanation": "A statistical process control (SPC) chart is used to determine whether a process is in control (stable) or out of control (unstable).\n-A process is considered in control when all sample points fall within the upper and lower control limits (UCL and LCL), and the variation appears random (no non-random trends, patterns, or cycles).\n-This means that the observed variation is due only to common causes (inherent to the process) and not to special causes (unusual events or errors)."
+  },
+  {
+    "question": "A car wash is using a process control chart to plot and monitor service wait times to improve quality and customer satisfaction. An upper and lower control limit of one standard deviation is being used to detect out-of-control processes. What is the percentage of normal probability used for the control limits in this case?",
+    "choices": [
+      "0.382",
+      "0.68",
+      "0.95",
+      "0.9973"
+    ],
+    "correct": "0.68",
+    "explanation": "Control limits in statistical process control (SPC) charts are usually set at multiples of standard deviations (σ) from the process mean:\n±1σ → Covers about 68% of data (normal probability).\n±2σ → Covers about 95% of data.\n±3σ → Covers about 99.73% of data (the most common in industry, per the 6-sigma principle).\nSince the car wash is using ±1 standard deviation, the control limits include approximately 68% of all process variation under normal conditions."
+  },
+  {
+    "question": "A startup firm is launching a new online education service for kids using the standard service design process. A detailed schedule for the service launch across several sites has been completed. Which type of service specification has been finalized?",
+    "choices": [
+      "Performance",
+      "Design",
+      "Delivery",
+      "Concept"
+    ],
+    "correct": "Delivery",
+    "explanation": "In the standard service design process, there are four main specifications that build on each other:\n1. Service Concept – Defines the target market and the benefits of the service (e.g., “online education for kids with interactive learning”).\n2. Service Package (design requirements) – Specifies the components of the service (facilities, teaching tools, technology, support staff).\n3. Service Specification (performance + design) – Defines the performance standards (speed, reliability, quality targets) and the design requirements (features, platform capabilities, curriculum).\n4. Service Delivery – Outlines how the service will actually be delivered, including scheduling, sequencing, staffing, and rollout plans.\nSince the startup has already created a detailed schedule for launching across multiple sites, this falls under 4. Service Delivery specification — the operational plan that puts the service into action."
+  },
+  {
+    "question": "A telecommunications company wants to monitor call drop rates to improve the customer experience. It will use a statistical control chart with an average drop rate of 3X and one sample standard deviation. What are the control limits of the process control chart?",
+    "choices": [
+      "3X ± 2σ",
+      "3X ± σ",
+      "X ± σ",
+      "3X ± 3σ"
+    ],
+    "correct": "3X ± σ",
+    "explanation": "A statistical process control (SPC) chart plots process data against a mean and control limits defined in terms of standard deviations (σ).\nIn this case, the average drop rate = 3X.\nThe company wants to use one standard deviation (±1σ) for control limits.\nSo the Upper Control Limit (UCL) and Lower Control Limit (LCL) are:\nUCL=3X+σ\nLCL=3X−σ\nThat is expressed as: 3X ± σ."
+  },
+  {
+    "question": "An entertainment company wants to launch a service that requires a very low amount of contact and interaction with its visitors. The company wants to use the standard design process to build this service. Which employee skill set should the company use to ensure quality in this service delivery?",
+    "choices": [
+      "People skills",
+      "Technical skills",
+      "Analytical skills",
+      "Auditing skills"
+    ],
+    "correct": "Technical skills",
+    "explanation": "In the standard service design process, the skills needed for employees depend heavily on the level of customer contact:\n-High-contact services (e.g., hospitality, healthcare, consulting) → require strong people skills, since interaction with customers is frequent and directly shapes service quality.\n-Low-contact services (e.g., online ticketing, self-service kiosks, streaming platforms) → require strong technical skills, because the quality of delivery depends more on the systems, technology, and processes than on face-to-face interaction.\nSince the entertainment company is designing a service with very low customer interaction, the technical skills of employees (system design, IT support, automation, backend reliability) will be the main factor in ensuring service quality."
+  },
+  {
+    "question": "A pharmaceutical plant wants to track the color of a key ingredient using a control chart. This ingredient is procured from a vendor that compares the product against the color standard. The sample points from the latest consignment are exhibiting an out-of-control trend. Which action should be taken to ensure product quality?",
+    "choices": [
+      "Adjust the color standard to match the latest consignment sample points",
+      "Investigate the latest consignment and do not use it for production",
+      "Keep revising the control limits to fit the latest consignment sample points",
+      "Remove the outlier sample points that are part of the latest consignment"
+    ],
+    "correct": "Investigate the latest consignment and do not use it for production",
+    "explanation": "When a pharmaceutical raw material shows an out-of-control trend, the right approach is to stop using it, investigate the vendor’s process, and protect product quality."
+  },
+  {
+    "question": "An industrial chemical manufacturer wants to improve its quality standards by tracking the moisture levels of raw materials using a statistical control chart. The standard average moisture level is X humidity units, and two sample standard deviations will be used. What is the lower control limit of the chart?",
+    "choices": [
+      "X – 3σ",
+      "2X – 2σ",
+      "X – 2σ",
+      "2X – 3σ"
+    ],
+    "correct": "X – 2σ",
+    "explanation": "A statistical process control (SPC) chart sets upper and lower control limits (UCL, LCL) around the process mean (average).\nMean (center line) = X humidity units.\nControl limits = Mean ± kσ, where k is the number of standard deviations chosen.\nHere, k = 2.\nSo:\nUpper Control Limit (UCL) = X + 2σ\nLower Control Limit (LCL) = X – 2σ"
+  },
+  {
+    "question": "A hotel chain wants to enhance the customer experience by upgrading its room facilities across its many locations. What is the relevant measure of service quality to meet the objective?",
+    "choices": [
+      "Forecast accuracy of the occupancy rate",
+      "The price index of the experience",
+      "Consistency of the experience",
+      "Return on the investment"
+    ],
+    "correct": "Consistency of the experience",
+    "explanation": "In hospitality, service quality means consistency of the customer experience across all properties, ensuring reliability and trust in the brand."
+  },
+  {
+    "question": "A production facility is taking periodic samples to monitor process controls and quality standards by using control charts. Which scenario indicates that a process is not in control?",
+    "choices": [
+      "Sample attributes around the mean",
+      "Sample attributes outside the control limits",
+      "Sample attributes in the upper part of the chart",
+      "Sample attributes in the lower part of the chart"
+    ],
+    "correct": "Sample attributes outside the control limits",
+    "explanation": "A process control chart is used to determine whether a process is operating in a state of control (only common cause variation present) or out of control (special cause variation present).\n-If all sample points fall within the control limits and show random variation around the mean, the process is in control.\n-If any sample point falls outside the upper or lower control limit, this is a clear signal of an out-of-control process — indicating abnormal variation that must be investigated."
+  },
+  {
+    "question": "A consumer electronics company is launching a new product for house cleaning purposes. This product uses multiple easy-to-use functionalities to minimize defects. Which quality source methodology has been used in this case?",
+    "choices": [
+      "Quality by design",
+      "Quality by process",
+      "Quality by verification",
+      "Quality by self-check"
+    ],
+    "correct": "Quality by design",
+    "explanation": "Quality by design (QbD) is a methodology where quality is built into the product during the design phase, rather than inspected in later."
+  },
+  {
+    "question": "A firm wants to understand and implement quality standards for managing supply chain risks and avoiding customer service level disruptions. Which standard can help achieve this goal?",
+    "choices": [
+      "ISO 9001",
+      "ISO 14001",
+      "ISO 37120",
+      "ISO 50001"
+    ],
+    "correct": "ISO 9001",
+    "explanation": "ISO 9001 is the international standard for quality management systems (QMS). It helps organizations:\n-Establish consistent processes to deliver products and services that meet customer and regulatory requirements.\n-Implement risk-based thinking to identify and mitigate risks in operations — including supply chain risks.\n-Focus on customer satisfaction by preventing service-level disruptions through quality planning and control.\nISO 14001 → Focuses on environmental management systems, not supply chain quality or risk control.\nISO 37120 → Standard for sustainable cities and communities indicators, unrelated to supply chain quality.\nISO 50001 → Standard for energy management systems, focusing on efficiency and sustainability, not supply chain quality."
+  },
+  {
+    "question": "A paper manufacturing unit began the International Organization for Standardization (ISO) certification process but was unable to qualify for the certification after the audit process. Which scenario could have caused the rejection?",
+    "choices": [
+      "The internal quality management review processes are insufficient.",
+      "The customer order service level for a product is lower than the target.",
+      "The new product launch is delayed due to a key component unavailability.",
+      "The supplier of the organization is not currently supplying other firms."
+    ],
+    "correct": "The internal quality management review processes are insufficient.",
+    "explanation": "When a company goes through an ISO certification audit (e.g., ISO 9001 for quality management):\n-The auditors check whether the company has documented, implemented, and maintained the required quality management system (QMS) processes.\n-A common cause of rejection is when the firm lacks sufficient internal quality reviews, corrective actions, and documented processes to demonstrate compliance with ISO requirements.\n-ISO certification focuses on the system of quality management, not directly on sales performance, delays, or supplier business outside the organization."
+  },
+  {
+    "question": "A glass bottle manufacturing facility wants to improve quality by using statistical process controls in the inspection of samples taken from the production line. How should the samples be selected?",
+    "choices": [
+      "Samples should be taken at random periods throughout the production process.",
+      "Samples should be taken at the beginning of the production process.",
+      "Samples should be taken at the end of the production process.",
+      "Samples should be taken in the middle of the production process."
+    ],
+    "correct": "Samples should be taken at random periods throughout the production process.",
+    "explanation": "For SPC to be effective, samples should be taken at random intervals across the entire production process to accurately monitor variation and ensure quality control."
+  },
+  {
+    "question": "A sports institute wants to transform its training program for better participant satisfaction by understanding the best practices used by other service companies. Which service quality tool can help achieve this goal?",
+    "choices": [
+      "Service scripts",
+      "Servicescapes",
+      "Service blueprinting",
+      "Service benchmarking"
+    ],
+    "correct": "Service benchmarking",
+    "explanation": "Benchmarking is the process of comparing an organization’s practices, processes, and performance metrics with those of industry leaders or competitors to identify best practices and improvement opportunities."
+  },
+  {
+    "question": "How are cellular layouts used in production facilities to provide flexibility and reduce waste in both product volume and variety?",
+    "choices": [
+      "By producing product families in dedicated manufacturing layouts",
+      "By grouping similar equipment into manufacturing cells",
+      "By producing dissimilar products in each manufacturing cell",
+      "By operating in a similar manner to product layouts"
+    ],
+    "correct": "By producing product families in dedicated manufacturing layouts",
+    "explanation": "A cellular layout is a production arrangement where equipment and workstations are grouped into cells designed to produce a family of similar products (products that share common processing steps)."
+  },
+  {
+    "question": "A two-bin inventory system is being utilized by a widget producer in its lean manufacturing process. At the beginning of the process, bin 1 contains 100 units and bin 2 contains 40 units. What does bin 2 represent in this context?",
+    "choices": [
+      "Reorder point",
+      "Production quantity",
+      "Defects",
+      "Order quantity"
+    ],
+    "correct": "Reorder point",
+    "explanation": "In a two-bin inventory system (a simple lean / JIT method):\n-Bin 1 holds the working stock (used in daily production).\n-Bin 2 holds the reserve stock — the reorder point.\nWhen Bin 1 is empty, production switches to Bin 2, and at that moment, a replenishment order is triggered.\n-Bin 2’s quantity is sized to cover demand during the supplier’s lead time.\n-Once replenishment arrives, Bin 2 is refilled, and the cycle repeats.\nIn a two-bin system, Bin 2 represents the reorder point — the reserve stock that ensures production continues while replenishment is ordered."
+  },
+  {
+    "question": "A chemical plant manager is not satisfied with a production process and requests input from plant employees about methods that can be used to make improvements. Which lean process is the manager using?",
+    "choices": [
+      "Poka-yoke",
+      "Kaizen",
+      "Andon",
+      "Heijunka"
+    ],
+    "correct": "Kaizen",
+    "explanation": "Kaizen is the lean principle of continuous improvement that emphasizes:\n-Involving all employees (from operators to managers) in identifying opportunities for improvement.\n-Making small, incremental changes rather than large, disruptive ones.\n-Building a culture where suggestions from employees are valued and acted upon.\n(Poka-yoke → Mistake-proofing methods to prevent errors in production.)\n(Andon → Visual signaling system (like lights) to highlight process problems in real time.)\n(Heijunka → Production leveling to smooth out fluctuations in demand.)"
+  },
+  {
+    "question": "A company is utilizing Six Sigma concepts to streamline its widget production. What is the primary reason the company is using this strategy?",
+    "choices": [
+      "To reduce variability",
+      "To eliminate waste",
+      "To increase the standard deviation",
+      "To identify bottlenecks"
+    ],
+    "correct": "To reduce variability",
+    "explanation": "The primary goal of Six Sigma is to reduce process variation so that products and services are consistently within specification limits and meet customer requirements."
+  },
+  {
+    "question": "An electric car company is deciding whether it should utilize a lean production strategy. Which characteristic suggests the company would benefit from a lean strategy?",
+    "choices": [
+      "There is a high probability of disruption.",
+      "There is a low frequency of shipments.",
+      "There is a low variability of demand.",
+      "There is a high level of customization."
+    ],
+    "correct": "There is a low variability of demand.",
+    "explanation": "Lean production thrives in environments where:\nDemand is stable and predictable (low variability).\nProduction can be leveled (heijunka), making it easier to reduce waste and keep inventories low.\nJust-in-time (JIT) delivery and smooth process flow are possible.\nFor an electric car company:\nIf demand is low in variability, the company can confidently adopt lean — reducing inventory, streamlining processes, and increasing efficiency.\nLean systems are vulnerable to demand fluctuations or disruptions, since they keep little safety stock."
+  },
+  {
+    "question": "A shipping container company wants to use a kanban system to reduce inventory levels. The formula (dL+S) for the number of kanbans is given as N = (dL+S)/C. \nN = number of kanbans\nd = average demand per unit of time\nL = lead time\nS = safety stock\nC = container size\nWhat happens to the number of kanbans (N ) when the container size (C ) is doubled, and other\nparameters are kept constant?",
+    "choices": [
+      "Remains constant",
+      "Triples",
+      "Doubles",
+      "Halves"
+    ],
+    "correct": "Halves",
+    "explanation": "If container size (C) doubles, and dL+S remains constant:\nNnew = (dL+S)/2C = 1/2×(dL+S)/C\nThat means the number of kanbans is cut in half.\nIn a kanban system, larger container sizes reduce the number of kanbans needed, since each card/order covers more units."
+  },
+  {
+    "question": "A company is utilizing a reorder point system to decrease inventory and manage its cycle stocks. How is the reorder point established in a lean environment?",
+    "choices": [
+      "Demand during lead time",
+      "Order quantity",
+      "Average inventory",
+      "Order up to level"
+    ],
+    "correct": "Demand during lead time",
+    "explanation": "The reorder point is the level of inventory at which a new order should be placed so that stock does not run out before the order arrives.\nIn a lean environment, where the goal is to minimize excess inventory, the ROP is set equal to the demand during lead time (plus any safety stock if needed).\nROP = Demand per unit of time × Lead time + Safety Stock\nThis ensures materials arrive just in time without creating unnecessary cycle stock."
+  },
+  {
+    "question": "A company is utilizing a reorder point system to minimize inventories in a just-in-time (JIT) environment. What, if anything, happens to the reorder point if the lead time extends due to supplier delays?",
+    "choices": [
+      "It increases.",
+      "It decreases.",
+      "It remains constant.",
+      "It varies randomly."
+    ],
+    "correct": "It increases.",
+    "explanation": "The reorder point (ROP) in a continuous review system is:\nROP = Demand during lead time +Safety stock\nIf lead time increases (e.g., due to supplier delays), then demand during lead time also increases, since more units are consumed before replenishment arrives.\nTo prevent stockouts, the ROP must be set higher meaning the company has to reorder earlier."
+  },
+  {
+    "question": "A lean manufacturing process contains setup time, processing time, wait time, and transit time. What is the value-added activity in this case?",
+    "choices": [
+      "Setup",
+      "Processing",
+      "Wait",
+      "Transit"
+    ],
+    "correct": "Processing",
+    "explanation": "In lean manufacturing, activities are classified as either:\nValue-added (VA): Activities that transform the product in a way the customer is willing to pay for.\nNon–value-added (NVA): Activities that do not change the product or add value from the customer’s perspective (waste).\nFor the given activities:\nSetup time → Necessary but not value-added (customer doesn’t pay for setups).\nProcessing time → Value-added, since this is when the product is physically transformed into something the customer wants.\nWait time → Pure waste (product sitting idle).\nTransit time → Transportation; usually non–value-added unless absolutely necessary."
+  },
+  {
+    "question": "A company is utilizing a reorder point system to decrease inventory and manage its cycle stocks. How is this process related to a just-in-time (JIT) environment?",
+    "choices": [
+      "An order is placed to minimize defects.",
+      "An order is placed to balance inventory.",
+      "An order is placed to match demand.",
+      "An order is placed to minimize breakdowns."
+    ],
+    "correct": "An order is placed to match demand.",
+    "explanation": "In a JIT environment, a reorder point system supports lean flow by placing orders that exactly match demand during lead time, reducing excess cycle stock."
+  },
+  {
+    "question": "What is an advantage of using just-in-time (JIT) systems for countries such as Japan that encompass small geographical areas?",
+    "choices": [
+      "High inventory levels",
+      "Frequent deliveries",
+      "Small workforces",
+      "Large production capacity"
+    ],
+    "correct": "Frequent deliveries",
+    "explanation": "A major advantage of JIT in compact geographies like Japan is the ability to have frequent, reliable deliveries that support lean, low-inventory operations."
+  },
+  {
+    "question": "A lean manufacturing process contains three operations (E, F, and G). It takes 20 minutes to complete operation E, 30 minutes to complete operation F, and 40 minutes to complete operation G. In addition, there is a wait time (H) of 10 minutes between the operations. What is the non-value-added activity in this example?",
+    "choices": [
+      "F",
+      "E",
+      "G",
+      "H"
+    ],
+    "correct": "H",
+    "explanation": "In lean manufacturing, activities are classified as:\nValue-added (VA): Activities that transform the product in a way the customer is willing to pay for.\nNon–value-added (NVA): Activities that do not change the product or add value from the customer’s perspective — i.e., waste (muda).\nIn the example:\nE (20 min), F (30 min), G (40 min) → These are processing operations that transform the product. (Value-added.)\nH (10 min wait time) → Waiting does not transform the product; it is pure waste and therefore non-value-added."
+  },
+  {
+    "question": "A manufacturer following a 5s (sort, set, shine, standardize, and sustain) lean method trains workers to follow specific checklists that provide easy access to information for all processes. Which 5s strategy are the workers using?",
+    "choices": [
+      "Set-in-order",
+      "Sort",
+      "Standardize",
+      "Sustain"
+    ],
+    "correct": "Standardize",
+    "explanation": "The 5S methodology in lean manufacturing consists of:\nSort (Seiri) – Remove unnecessary items.\nSet-in-order (Seiton) – Arrange tools/materials for easy access.\nShine (Seiso) – Clean the workplace.\nStandardize (Seiketsu) – Develop standard practices such as checklists, visual controls, and procedures to maintain the first three S’s.\nSustain (Shitsuke) – Make 5S a habit through training, discipline, and continuous improvement.\nIn this scenario:\nWorkers are trained to follow specific checklists to ensure consistent processes and easy access to information.\nThat is exactly the Standardize step, where processes are documented and followed uniformly."
+  },
+  {
+    "question": "A company is focusing on a DMAIC (define, measure, analyze, improve, and control) quality process. It uses a root cause approach to understand the reasons that defective parts have been produced. Which step of the DMAIC process is the company utilizing?",
+    "choices": [
+      "Analyze",
+      "Measure",
+      "Improve",
+      "Control"
+    ],
+    "correct": "Analyze",
+    "explanation": "The DMAIC cycle in Six Sigma consists of:\nDefine – Identify the problem, customer needs, and project goals.\nMeasure – Collect data on current performance and establish a baseline.\nAnalyze – Use tools like root cause analysis, fishbone diagrams, 5 Whys, regression analysis to identify why defects or variation occur.\nImprove – Implement solutions to address the root causes and optimize the process.\nControl – Put monitoring systems in place to sustain improvements.\nIn this case:\nThe company is explicitly using a root cause approach to understand why defective parts are produced. Using root cause analysis to determine why defects occur is part of the Analyze step in DMAIC."
+  },
+  {
+    "question": "A retail company is utilizing value stream mapping (VSM) to redesign its purchasing process. How can it be used as a tool to eliminate waste?",
+    "choices": [
+      "By identifying non-value-added activities",
+      "By identifying processing times",
+      "By identifying a critical path",
+      "By identifying defects"
+    ],
+    "correct": "By identifying non-value-added activities",
+    "explanation": "Value Stream Mapping (VSM) is a lean tool that visually maps all steps in a process (both material and information flows). It shows the current state and helps design a future state with less waste.\nThe main purpose of VSM is to distinguish value-added vs. non-value-added (waste) activities.\nOnce non-value-added steps (like waiting, rework, excess approvals) are identified, they can be reduced or eliminated to improve flow, cost, and lead time. \nVSM helps eliminate waste by making non-value-added activities visible, so they can be redesigned or removed from the process."
+  }
+]
